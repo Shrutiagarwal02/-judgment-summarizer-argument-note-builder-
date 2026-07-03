@@ -5,7 +5,7 @@ Built by **Shruti Agarwal** (LL.M., Commercial & Corporate Law, Queen Mary Unive
 of London) — a structured AI prompting workflow that converts judgments into
 standardized case briefs, extended into an argument-note builder for hearings.
 
-**Live showcase:** *[add Streamlit Community Cloud URL here once deployed]*
+**Live showcase:** [judgment-summarizer-argument-note.streamlit.app](https://judgment-summarizer-argument-note.streamlit.app/)
 
 **Validated against real material:** tested against a real, current Calcutta High
 Court judgment (*M/S. Jindal (India) Ltd v. State of West Bengal*, July 2025) — see
